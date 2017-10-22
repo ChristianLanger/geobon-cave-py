@@ -7,7 +7,7 @@ Just basic text adventure without any fancy graphics. Via the keyboard the user 
 
 ## Getting Started
 
-Run your terminal after installing python3
+Run your terminal after installing python3 with
 
 ```
 python3 geobon_cave.py
